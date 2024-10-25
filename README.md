@@ -1,4 +1,4 @@
-# Web scrapping + Learning Docker
+# Web scraping + Learning Docker
 
 Create a docker container :
 ```shell
